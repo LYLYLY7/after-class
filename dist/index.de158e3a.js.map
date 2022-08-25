@@ -1,1 +1,0 @@
-{"mappings":"AAAA,MAAM,CAAC,CAAC,GAAG,MAAM,CAAC,MAAM;AAExB,CAAC,CAAC,OAAO,CAAC,CAAC,IAAI,CAAC,QAAQ,CAAC,CAAC,QAAQ,CAAC,KAAK,CAAC,CAAC,aAAa","sources":["src/main.js"],"sourcesContent":["window.$ = window.jQuery\r\n\r\n$('#test').find('.child').addClass('red') // 请确保这句话成功执行"],"names":[],"version":3,"file":"index.de158e3a.js.map","sourceRoot":"/__parcel_source_root/"}
